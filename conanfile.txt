@@ -1,5 +1,5 @@
 [requires]
-OpenCV/master@damiles/stable
+OpenCV/master@ahmet/stable
 
 [generators]
 cmake
